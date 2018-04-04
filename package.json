@@ -37,8 +37,8 @@
     }
   },
   "devDependencies": {
-    "@types/react": "16.1.0",
-    "awesome-typescript-loader": "^3.4.1",
+    "@types/react": "16.3.4",
+    "awesome-typescript-loader": "^4.0.1",
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4.5.1",
     "expect": "^22.4.3",
@@ -50,11 +50,11 @@
     "tslint": "5.9.1",
     "tslint-loader": "3.6.0",
     "typescript": "^2.8.1",
-    "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.9.7"
+    "webpack": "^4.4.1",
+    "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
     "esp-js": "^1.5.2",
-    "react": "16.3.0"
+    "react": "16.3.1"
   }
 }
