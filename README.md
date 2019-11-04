@@ -1,3 +1,7 @@
+# Repo Archice note: 
+** The package in this repo has been moved as a sub package in the main repo https://github.com/esp/esp-js/ **
+
+
 [![npm](https://img.shields.io/npm/v/esp-js-react.svg)](https://www.npmjs.com/package/esp-js-react)
 
 **[RouterProvider](#routerprovider)** |
